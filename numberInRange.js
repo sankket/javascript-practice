@@ -14,3 +14,4 @@ function numberInRange(num1, num2)
 }
 
 let result = document.getElementById("txtdisplay").innerHTML ="The Given Numbers Falls in range of 50 - 99 ? " +  numberInRange(number1, number2);
+//you can use alert instead of DOM
