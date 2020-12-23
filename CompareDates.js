@@ -9,3 +9,5 @@
         document.write("both are equal"); }
 
     let result = document.getElementById("txtdisplay").innerHTML = datesCompare();
+
+// You can also take date as input.
