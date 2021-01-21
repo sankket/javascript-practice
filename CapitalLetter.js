@@ -9,4 +9,4 @@ function capitalLetterOfString(str)
     return str.join(" ");
 }
 
-let result = document.getElementById("txtdisplay").innerHTML = capitalLetterOfString("my name is india");
+alert(capitalLetterOfString("my name is india"));
