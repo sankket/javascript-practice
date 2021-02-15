@@ -1,7 +1,7 @@
 function numberInRange(num1, num2) 
   {
-    let number1 = prompt("Enter the First Number");
-    let number2 = prompt("Enter the Second Number");
+    let number1 = prompt("Enter the First Number : ");
+    let number2 = prompt("Enter the Second Number : ");
 
   if ((num1 >= 50 && num2 <= 99) || (num1 >= 10 && num2 <= 99))
   {
