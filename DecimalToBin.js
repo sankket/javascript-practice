@@ -6,6 +6,8 @@ const oct = (number).toString(8);
 const bin = (number).toString(2);    
 
 return hex
+//return oct
+//return bin
 }
 
 alert(conversion(number1))
