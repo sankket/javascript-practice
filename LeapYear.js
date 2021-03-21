@@ -1,3 +1,5 @@
+
+// This Program shows whether the given year is Leap or Not.
 function isLeapYear(year) {
     return year % 400 === 0 || (year % 100 !== 0 && year % 4 === 0);
 }
@@ -10,4 +12,3 @@ function daysOfYear(year)
 
 alert(daysOfYear(2020))
 
-// This Program shows whether the given year is Leap or Not.
