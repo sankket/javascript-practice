@@ -8,4 +8,5 @@ function vowelsCount(str) {
 
 
 let result = document.getElementById("txtdisplay").innerHTML ="The Count of the vowels in a given string : "+ vowelsCount(string);
+alert(vowelsCount(string))
 
