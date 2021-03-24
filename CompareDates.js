@@ -8,6 +8,6 @@
     else
         document.write("both are equal"); }
 
-    let result = document.getElementById("txtdisplay").innerHTML = datesCompare();
+    alert(datesCompare());
 
 // You can also take date as input.
