@@ -1,3 +1,4 @@
+//use camel cases whereever possible and keep the function name meaningful.
 function checkLastDigit(){
 let num1 = prompt("Enter the First Number");
 let num2 = prompt("Enter the Second Number");
