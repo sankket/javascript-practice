@@ -1,7 +1,7 @@
 // Find the Area of the triangle when the all the sides length are Given.
-const side1 = 5;
-const side2 = 6;
-const side3 = 7;
+const side1 = 25;
+const side2 = 64;
+const side3 = 75;
 
 const perimeter = (side1 + side2 + side3) / 2 ;
 
